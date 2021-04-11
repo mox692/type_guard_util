@@ -1,0 +1,22 @@
+{
+  "name": "type_guard_util",
+  "version": "1.0.0",
+  "description": "type guard utils in TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mox692/type_guard_util.git"
+  },
+  "author": "motoyuki kimura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mox692/type_guard_util/issues"
+  },
+  "homepage": "https://github.com/mox692/type_guard_util#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
