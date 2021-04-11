@@ -5,6 +5,6 @@
 * @param prop The prop that is unique in arg Types.
 * @return whether @prop exist in @arg.
 */
-export const TypeIs = <T extends W, W = any,>(arg:W, prop: any): prop is T => {
+export const TypeIs = <T extends W, W = any,>(arg:W, prop: any): arg is T => {
     return prop in arg
 }
